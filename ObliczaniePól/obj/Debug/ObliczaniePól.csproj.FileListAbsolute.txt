@@ -1,0 +1,2 @@
+C:\Users\milos\source\repos\ObliczaniePól\ObliczaniePól\obj\Debug\ObliczaniePól.csprojAssemblyReference.cache
+C:\Users\milos\source\repos\ObliczaniePól\ObliczaniePól\obj\Debug\ObliczaniePól.csproj.CoreCompileInputs.cache

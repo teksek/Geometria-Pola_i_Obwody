@@ -1,0 +1,11 @@
+C:\Users\milos\source\repos\ObliczaniePól\ObliczaniePól\bin\Debug\ObliczaniePól.exe.config
+C:\Users\milos\source\repos\ObliczaniePól\ObliczaniePól\bin\Debug\ObliczaniePól.exe
+C:\Users\milos\source\repos\ObliczaniePól\ObliczaniePól\bin\Debug\ObliczaniePól.pdb
+C:\Users\milos\source\repos\ObliczaniePól\ObliczaniePól\obj\Debug\Geometria_Pola_i_Obwody.csproj.CoreCompileInputs.cache
+C:\Users\milos\source\repos\ObliczaniePól\ObliczaniePól\obj\Debug\ObliczaniePól.exe
+C:\Users\milos\source\repos\ObliczaniePól\ObliczaniePól\obj\Debug\ObliczaniePól.pdb
+C:\Users\milos\source\repos\ObliczaniePól\ObliczaniePól\obj\Debug\Geometria_Pola_i_Obwody.csprojAssemblyReference.cache
+C:\Users\milos\source\repos\ObliczaniePól\ObliczaniePól\bin\Debug\ObliczaniePól.exe.manifest
+C:\Users\milos\source\repos\ObliczaniePól\ObliczaniePól\bin\Debug\ObliczaniePól.application
+C:\Users\milos\source\repos\ObliczaniePól\ObliczaniePól\obj\Debug\ObliczaniePól.exe.manifest
+C:\Users\milos\source\repos\ObliczaniePól\ObliczaniePól\obj\Debug\ObliczaniePól.application

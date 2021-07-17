@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometria_Pola_i_Obwody", "ObliczaniePól\Geometria_Pola_i_Obwody.csproj", "{FECA1527-17F1-4112-B5D7-84115E9979E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECA1527-17F1-4112-B5D7-84115E9979E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECA1527-17F1-4112-B5D7-84115E9979E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECA1527-17F1-4112-B5D7-84115E9979E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECA1527-17F1-4112-B5D7-84115E9979E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F39C9AA9-9105-40EB-9054-FF5B20E64F7F}
+	EndGlobalSection
+EndGlobal
